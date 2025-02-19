@@ -1,2 +1,3 @@
 # The-Tech-Academy-Basic-C-Sharp-Projects
-C#  and .NET Projects
+
+Thie repository will contain my C#  and .NET Projects
